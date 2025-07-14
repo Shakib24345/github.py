@@ -10,8 +10,8 @@ my_function("John")
 
 def my_function(fname, lname): 
    print(fname + " " + lname) 
-my_function("Emil", "Refsnes")"""
+my_function("Emil", "Refsnes")
 
 def my_function(*names): 
    print("Name= " + names[2]) 
-my_function("Mike", "Monica", "John") 
+my_function("Mike", "Monica", "John")"""
